@@ -1,7 +1,3 @@
-Certainly! Here's the updated README with a separate section for the disclaimer:
-
----
-
 # Personal Trading Progress Repository
 
 Welcome to the Personal Trading Progress Repository! This repository serves as a personal journal and progress tracker for your trading endeavors. It contains notes, insights, and trading algorithms implemented for educational purposes.
@@ -51,6 +47,3 @@ The content provided in this repository is for educational purposes only. The au
 
 This repository is licensed under the [MIT License](LICENSE). The content provided here is solely for educational purposes, and it should not be considered as financial advice. Always conduct your research and consult with a financial advisor before making any investment decisions.
 
----
-
-Feel free to customize this README further to better suit your personal trading progress tracking needs!
