@@ -20,7 +20,7 @@ The primary purpose of this repository is to document your journey in trading an
 To use this repository for your personal progress tracking, simply clone it to your local machine:
 
 ```bash
-git clone https://github.com/your_username/trading-progress.git
+git clone https://github.com/simply-sankalp/trading-algorithms.git
 ```
 
 You can then start adding your notes, insights, and algorithms to the repository.
